@@ -1,2 +1,5 @@
 print('Hello, world!')
 print('Welcome')
+print('line1')
+print('line2')
+print('line3')
